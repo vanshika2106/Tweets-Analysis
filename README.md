@@ -1,2 +1,2 @@
 # Tweets-Analysis
-• Built web interface using the streamlit framework to accept inputs and execute the corresponding functions and populate the outputs in an interactive manner • Visualized data using matplotlib and seaborn python libraries, transformed data and then developed an information retrieval system for sentiment analysis for Twitter tweets real-time data (latest ~3 days) using NLTK’s Naive Bayesian classification function to train a classifier using a subset of tweets
+An information retrieval system for sentiment analysis for Twitter tweets real-time data (latest ~3 days) using NLTK’s Naive Bayesian classification function to train a classifier using a subset of tweets
